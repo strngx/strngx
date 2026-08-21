@@ -15,9 +15,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/arjunkhatriofficial?style=for-the-badge&logo=github&label=Followers&color=EF93C4" />
-  <img src="https://img.shields.io/github/stars/arjunkhatriofficial?style=for-the-badge&logo=github&label=Stars&color=EF93C4" />
-  <img src="https://komarev.com/ghpvc/?username=arjunkhatriofficial&style=for-the-badge&color=EF93C4"/>
+  <img src="https://img.shields.io/github/followers/strngx?style=for-the-badge&logo=github&label=Followers&color=EF93C4" />
+  <img src="https://img.shields.io/github/stars/strngx?style=for-the-badge&logo=github&label=Stars&color=EF93C4" />
+  <img src="https://komarev.com/ghpvc/?username=strngx&style=for-the-badge&color=EF93C4"/>
 </p>
 
 <h2 align="center">👨‍💻 About Me</h2>
@@ -53,24 +53,16 @@
 <h2 align="center">📈 GitHub Analytics</h2>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=arjunkhatriofficial&hide_border=true&background=0D1117&ring=EF93C4&fire=EF93C4&currStreakLabel=F8BBD0&sideLabels=F8BBD0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arjunkhatriofficial&bg_color=0D1117&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&area_color=F8BBD0&hide_border=true"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=strngx&bg_color=0D1117&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&area_color=F8BBD0&hide_border=true"/>
 </p>
 
 <h2 align="center"> 🐍 Contribution Graph </h2>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arjunkhatriofficial/arjunkhatriofficial/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arjunkhatriofficial/arjunkhatriofficial/output/github-contribution-grid-snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/arjunkhatriofficial/arjunkhatriofficial/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/strngx/strngx/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/strngx/strngx/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/strngx/strngx/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
@@ -78,23 +70,23 @@
 
 <p align="center">
 
-<a href="https://linkedin.com/in/arjunkhatriofficial">
+<a href="https://www.linkedin.com/in/strngx/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://twitter.com/arjunkhatri">
+<a href="https://x.com/strngx_">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/arjunkhatriofficial">
+<a href="https://www.instagram.com/strngx_/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://youtube.com/@arjunkhatriofficial">
+<a href="https://www.youtube.com/@strngxx">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
-<a href="mailto:contact@arjunkhatri.com">
+<a href="mailto:arjunkhatri925@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
